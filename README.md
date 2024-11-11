@@ -1,5 +1,3 @@
-## Hi there 👋
-
 🌱 I’m currently learning Dart/Flutter
 
 **Programming Languages**
