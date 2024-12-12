@@ -1,4 +1,4 @@
-🌱 I’m currently learning Dart/Flutter
+🌱 I’m currently learning Java
 
 **Programming Languages**
 
