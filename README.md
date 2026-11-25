@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 -->
 
 **Portfolio**<br>
-<a href="https://exemplo.com](https://maxcieloliv.github.io/portifolio" target="_blank" rel="noopener noreferrer">visit</a>
+<a href="https://maxcieloliv.github.io/portifolio" target="_blank" rel="noopener noreferrer">visit</a>
